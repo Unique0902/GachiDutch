@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "dutch",
+    "icon": "./playstore.png",
+    "slug": "my-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "eas": {
+        "projectId": "bd1939e3-6546-4884-a4b9-7198cccbbb83"
+      }
+    }
+  },
+  "name": "my-project"
+}
